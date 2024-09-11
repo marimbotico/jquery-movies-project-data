@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Brave Heart",
-    "image": "./images/braveheart.jpeg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzZPMbMl-eGXvRLF0HwRS7Nj4jPOUP_thOQtSiUCo7PZ1sZKJuafrbZb_3moN4xHH4L8A&usqp=CAU",
     "description": "William Wallace is the medieval Scottish patriot who is spurred into revolt against the English when the love of his life is slaughtered. Leading his army into battles that become a war, his advance into England threatens King Edward I's throne before he is captured and executed, but not before becoming a symbol for a free Scotland.",
     "category": "action",
     "favorite": false
@@ -10,7 +10,7 @@
   {
     "id": "2",
     "title": "The Old Guard",
-    "image": "./images/oldguard.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcwN2Y0MGEtMjkyYy00YTYxLWFjMWItZTEyZjA1MTJhMjE2XkEyXkFqcGc@._V1_.jpg",
     "description": "A group of mercenaries, all centuries-old immortals with the ablity to heal themselves, discover someone is onto their secret, and they must fight to protect their freedom.",
     "category": "action",
     "favorite": true
@@ -18,7 +18,7 @@
   {
     "id": "3",
     "title": "The Beekeeper",
-    "image": "./images/beekeeper.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWVhYTNhMzctNjE3Yi00MTcxLTk3ZTctYWU5OTY4YWZkY2NmXkEyXkFqcGc@._V1_.jpg",
     "description": "One man's brutal campaign for vengeance takes on national stakes after it's revealed he's a former operative of a powerful and clandestine organization known as Beekeepers.",
     "category": "action",
     "favorite": true
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "title": "IF",
-    "image": "./images/if.jpeg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/IF_%28film%29_poster_2.jpg/220px-IF_%28film%29_poster_2.jpg",
     "description": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
     "category": "comedy",
     "favorite": false
@@ -34,7 +34,7 @@
   {
     "id": "5",
     "title": "Anchorman",
-    "image": "./images/anchorman.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_.jpg",
     "description": "Hotshot television anchorman Ron Burgundy (Will Ferrell) welcomes upstart reporter Veronica Corningstone (Christina Applegate) into the male-dominated world of 1970s broadcast news -- that is, until the talented female journalist begins to outshine Burgundy on air. Soon he grows jealous, begins a bitter feud with Veronica and eventually makes a vulgar slip on live TV that ruins his career. However, when an outrageous story breaks at the San Diego Zoo, Ron may get a chance to redeem himself.",
     "category": "comedy",
     "favorite": false
@@ -42,7 +42,7 @@
   {
     "id": "6",
     "title": "The Man from Toronto",
-    "image": "./images/manfromtoronto.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDM2YjA2ZjAtMmZmMy00NDhjLWJjYWYtYjc4ZGY0YzUzOTMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
     "description": "Kevin Hart comedy, A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin in hopes of staying alive.",
     "category": "comedy",
     "favorite": false
@@ -50,7 +50,7 @@
   {
     "id": "7",
     "title": "A Quiet Place",
-    "image": "./images/quietplace.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_.jpg",
     "description": "When New York City comes under attack from an alien invasion, a woman and other survivors try to find a way to safety. They soon learn that they must remain absolutely silent as the mysterious creatures are drawn to the slightest sound.",
     "category": "sci-fi",
     "favorite": false
@@ -58,7 +58,7 @@
   {
     "id": "8",
     "title": "Interstellar",
-    "image": "./images/interstellar.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
     "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
     "category": "sci-fi",
     "favorite": false
@@ -66,7 +66,7 @@
   {
     "id": "9",
     "title": "The Matrix",
-    "image": "./images/matrix.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
     "description": "The Matrix is an American cyberpunk media franchise consisting of four feature films, beginning with The Matrix and continuing with three sequels, The Matrix Reloaded, The Matrix Revolutions, and The Matrix Resurrections. The first three films were written and directed by the Wachowskis and produced by Joel Silver.",
     "category": "sci-fi",
     "favorite": false
@@ -74,7 +74,7 @@
   {
     "id": "10",
     "title": "1917",
-    "image": "./images/1917.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_.jpg",
     "description": "During World War I, two British soldiers -- Lance Cpl. Schofield and Lance Cpl. Blake -- receive seemingly impossible orders. In a race against time, they must cross over into enemy territory to deliver a message that could potentially save 1,600 of their fellow comrades -- including Blake's own brother.",
     "category": "drama",
     "favorite": false
@@ -82,7 +82,7 @@
   {
     "id": "11",
     "title": "Her",
-    "image": "./images/her.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg",
     "description": "A sensitive and soulful man earns a living by writing personal letters for other people. Left heartbroken after his marriage ends, Theodore (Joaquin Phoenix) becomes fascinated with a new operating system which reportedly develops into an intuitive and unique entity in its own right. He starts the program and meets Samantha (Scarlett Johansson), whose bright voice reveals a sensitive, playful personality. Though friends initially, the relationship soon deepens into love.",
     "category": "drama",
     "favorite": false
@@ -90,7 +90,7 @@
   {
     "id": "12",
     "title": "Nowhere",
-    "image": "./images/nowhere.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmEyOWU2NjctMzY0Zi00NzBkLTg3YzAtNDI3MGE4ZTkyZTQ0XkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_FMjpg_UX1000_.jpg",
     "description": "Fleeing a totalitarian country, pregnant Mia must fight for her life when a violent storm knocks the container in which she has been hiding overboard. Trapped, Mia gives birth and is forced to survive to save her baby.",
     "category": "drama",
     "favorite": false
@@ -98,7 +98,7 @@
   {
     "id": "13",
     "title": "Reservoir Dogs",
-    "image": "./images/reservoirdogs.jpeg",
+    "image": "https://resizing.flixster.com/o2RhYziykIGmuvg4ZzV-e1Fb2cQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13719_v_v8_ax.jpg",
     "description": "Six criminals with pseudonyms, and each strangers to one another, are hired to carry out a robbery. The heist is ambushed by police and the gang are forced to shoot their way out. At their warehouse rendezvous, the survivors, realising that they were set up, try to find the traitor in their midst.",
     "category": "independent-film",
     "favorite": false
@@ -106,7 +106,7 @@
   {
     "id": "14",
     "title": "Blame it on Fidel",
-    "image": "./images/fidel.jpeg",
+    "image": "https://m.media-amazon.com/images/I/51WaRCmXOUL._AC_SY200_QL15_.jpg",
     "description": "A nine-year-old girl has a simple life, with the only shadow in it coming from an uncle in Spain who is fighting Franco, the man whose name must not be mentioned.",
     "category": "independent-film",
     "favorite": false
@@ -114,7 +114,7 @@
   {
     "id": "15",
     "title": "Pan's Labyrinth",
-    "image": "./images/pan.jpeg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
     "description": "It's 1944 and the Allies have invaded Nazi-held Europe. In Spain, a troop of soldiers are sent to a remote forest to flush out the rebels. They are led by Capitan Vidal, a murdering sadist, and with him are his new wife Carmen and her daughter from a previous marriage, 11-year-old Ofelia. Ofelia witnesses her stepfather's sadistic brutality and is drawn into Pan's Labyrinth, a magical world of mythical beings.",
     "category": "independent-film",
     "favorite": false
